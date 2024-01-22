@@ -1,0 +1,5 @@
+18908968|1309.03864196325
+
+Block number of block with largest number of ether transferred
+between 2024-01-01 00:00:00 and 2024-01-01 00:30:00
+and total volume transferred for that block (value is in ether).
